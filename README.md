@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on Android developer
 - 📫 How to reach me:
-- Email: hungnt49.work@gmail.com
+- Email: hungnt94.work@gmail.com
 - Facebook: fb.com/llg94th
 - Whatsapps(For Greedy Stats Only): +84 847066490
 
